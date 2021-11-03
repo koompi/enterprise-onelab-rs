@@ -1,0 +1,5393 @@
+{
+  "name": "/",
+  "meta": {
+    "isFile": false,
+    "isDir": true,
+    "size": 4096
+  },
+  "children": [
+    {
+      "name": ".git",
+      "meta": {
+        "isFile": false,
+        "isDir": true,
+        "size": 4096
+      },
+      "children": [
+        {
+          "name": "description",
+          "meta": { 
+            "isFile": true,
+            "isDir": false,
+            "size": 73
+          },
+          "children": []
+        },
+        {
+          "name": "HEAD",
+          "meta": {
+            "isFile": true,
+            "isDir": false,
+            "size": 21
+          },
+          "children": []
+        },
+        {
+          "name": "refs",
+          "meta": {
+            "isFile": false,
+            "isDir": true,
+            "size": 4096
+          },
+          "children": [
+            {
+              "name": "tags",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": []
+            },
+            {
+              "name": "heads",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "config",
+          "meta": {
+            "isFile": true,
+            "isDir": false,
+            "size": 92
+          },
+          "children": []
+        },
+        {
+          "name": "info",
+          "meta": {
+            "isFile": false,
+            "isDir": true,
+            "size": 4096
+          },
+          "children": [
+            {
+              "name": "exclude",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 240
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "objects",
+          "meta": {
+            "isFile": false,
+            "isDir": true,
+            "size": 4096
+          },
+          "children": [
+            {
+              "name": "info",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": []
+            },
+            {
+              "name": "pack",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "hooks",
+          "meta": {
+            "isFile": false,
+            "isDir": true,
+            "size": 4096
+          },
+          "children": [
+            {
+              "name": "update.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 3650
+              },
+              "children": []
+            },
+            {
+              "name": "pre-receive.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 544
+              },
+              "children": []
+            },
+            {
+              "name": "commit-msg.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 896
+              },
+              "children": []
+            },
+            {
+              "name": "pre-commit.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 1643
+              },
+              "children": []
+            },
+            {
+              "name": "push-to-checkout.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 2783
+              },
+              "children": []
+            },
+            {
+              "name": "applypatch-msg.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 478
+              },
+              "children": []
+            },
+            {
+              "name": "pre-push.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 1374
+              },
+              "children": []
+            },
+            {
+              "name": "pre-rebase.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 4898
+              },
+              "children": []
+            },
+            {
+              "name": "pre-merge-commit.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 416
+              },
+              "children": []
+            },
+            {
+              "name": "post-update.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 189
+              },
+              "children": []
+            },
+            {
+              "name": "pre-applypatch.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 424
+              },
+              "children": []
+            },
+            {
+              "name": "fsmonitor-watchman.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 4655
+              },
+              "children": []
+            },
+            {
+              "name": "prepare-commit-msg.sample",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 1492
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cargo.toml",
+      "meta": {
+        "isFile": true,
+        "isDir": false,
+        "size": 249
+      },
+      "children": []
+    },
+    {
+      "name": ".gitignore",
+      "meta": {
+        "isFile": true,
+        "isDir": false,
+        "size": 8
+      },
+      "children": []
+    },
+    {
+      "name": "target",
+      "meta": {
+        "isFile": false,
+        "isDir": true,
+        "size": 4096
+      },
+      "children": [
+        {
+          "name": ".rustc_info.json",
+          "meta": {
+            "isFile": true,
+            "isDir": false,
+            "size": 3130
+          },
+          "children": []
+        },
+        {
+          "name": "CACHEDIR.TAG",
+          "meta": {
+            "isFile": true,
+            "isDir": false,
+            "size": 177
+          },
+          "children": []
+        },
+        {
+          "name": "debug",
+          "meta": {
+            "isFile": false,
+            "isDir": true,
+            "size": 4096
+          },
+          "children": [
+            {
+              "name": "server",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 6394704
+              },
+              "children": []
+            },
+            {
+              "name": "build",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": [
+                {
+                  "name": "serde_json-3a68e1afe5819733",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "build_script_build-3a68e1afe5819733.d",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 524
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-3a68e1afe5819733",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4114976
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4114976
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde-ad26b3d8ceb8c7df",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "build_script_build-ad26b3d8ceb8c7df.d",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 502
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-ad26b3d8ceb8c7df",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4115072
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4115072
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "ryu-ab5f220ddd6b7475",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "stderr",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "root-output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 82
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "out",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 56
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "proc-macro2-5b8c21d9a15983ad",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "stderr",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "root-output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 90
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "out",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 246
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "syn-573eee3dc7f7879f",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "stderr",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "root-output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 82
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "out",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_derive-f3f4cd971ce0cbf6",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "build_script_build-f3f4cd971ce0cbf6",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4113096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4113096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-f3f4cd971ce0cbf6.d",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 537
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_json-ffe3905b63fceae0",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "stderr",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "root-output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 89
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "out",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 30
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "ryu-6271e9a04c40424f",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "build_script_build-6271e9a04c40424f.d",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 486
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4119360
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-6271e9a04c40424f",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4119360
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_derive-63c3f0d88a7d3317",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "stderr",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "root-output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 91
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "out",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 62
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "syn-d3232ec0cc4b558a",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "build_script_build-d3232ec0cc4b558a",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4157704
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4157704
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-d3232ec0cc4b558a.d",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 489
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde-6ee204d70fb257c8",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "stderr",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "root-output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 84
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "out",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 482
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "proc-macro2-773b63b46a2c85d5",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4201416
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-773b63b46a2c85d5",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 4201416
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build_script_build-773b63b46a2c85d5.d",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 529
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": ".fingerprint",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": [
+                {
+                  "name": "serde_json-3a68e1afe5819733",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "dep-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 381
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde-587a642ead1f2d17",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-serde",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-serde.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 513
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-serde",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "walkdir-2d36edf9becddc97",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-walkdir.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 394
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-walkdir",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-walkdir",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_json-7eb37a4445cee97d",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-serde_json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-serde_json.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 598
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-serde_json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "ryu-c6b398e009bbe53f",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-ryu.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 398
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-ryu",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-ryu",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-b8ae10a93e0b1d35",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 333
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "syn-47aee153bb9580f6",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-syn",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-syn.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 673
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-syn",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde-ad26b3d8ceb8c7df",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "dep-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 404
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "ryu-ab5f220ddd6b7475",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "run-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "run-build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 245
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "proc-macro2-5b8c21d9a15983ad",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "run-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "run-build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 320
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "syn-573eee3dc7f7879f",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "run-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "run-build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 244
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "itoa-afd88b127edf84f6",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-itoa",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-itoa.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 328
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-itoa",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "quote-d80a3aa7130eb623",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-quote.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 420
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-quote",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-quote",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "ryu-9209e0ba8552ce8b",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-ryu.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 397
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-ryu",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-ryu",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_derive-f3f4cd971ce0cbf6",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "dep-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 372
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "walkdir-85c3caa7668e091f",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-walkdir.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 395
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-walkdir",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-walkdir",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-7758d840527f6308",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "test-bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 338
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_json-ffe3905b63fceae0",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "run-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "run-build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 246
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "ryu-6271e9a04c40424f",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "dep-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 353
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "same-file-d3ddf74b396c2e8b",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-same-file.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 341
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-same-file",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-same-file",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-ad723d607e0bd094",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 451
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 1600
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-c27d8bbbc5e5bb51",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 333
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-3ff81b6093728b92",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 451
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 1600
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-d1c924559c115a52",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output-test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8572
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "test-bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 516
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "proc-macro2-70fa7465da9fa479",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-proc-macro2.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 504
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-proc-macro2",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-proc-macro2",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "same-file-81dc4ac9f2573c23",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-same-file.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 340
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-same-file",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-same-file",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "unicode-xid-3c8a88541efd8c80",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-unicode-xid",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-unicode-xid",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-unicode-xid.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 355
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-c714f6b1b7f228e5",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output-test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 1600
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "test-bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 456
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-test-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "itoa-c9f794ae602378a7",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-itoa",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-itoa.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 329
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-itoa",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde-86adb7d4557a94da",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-serde",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-serde.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 514
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-serde",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_derive-63c3f0d88a7d3317",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "run-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "run-build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 247
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_json-ed150b01a5206768",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-serde_json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-serde_json.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 599
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-serde_json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "syn-d3232ec0cc4b558a",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "dep-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 447
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde-6ee204d70fb257c8",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "run-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "run-build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 246
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "proc-macro2-773b63b46a2c85d5",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "dep-build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "build-script-build-script-build.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 388
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-1c4562ff7531aa7b",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 511
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8572
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-c29ccf60895e49af",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "bin-server.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 511
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "output-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8572
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-bin-server",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 24
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "serde_derive-abf55b2599740f2e",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "lib-serde_derive.json",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 601
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "lib-serde_derive",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 16
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "dep-lib-serde_derive",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 8
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "invoked.timestamp",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 48
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "examples",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": []
+            },
+            {
+              "name": "server.d",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 111
+              },
+              "children": []
+            },
+            {
+              "name": "incremental",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 4096
+              },
+              "children": [
+                {
+                  "name": "server-2oipyzod369eb",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3urfb3l6o-1brprpn.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "s-g3urf7yefo-o3s0v9.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "s-g3urfb3l6o-1brprpn-32ro5b47ui5is",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 559646
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1283500
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3urf7yefo-o3s0v9-working",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 559834
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1281883
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.part.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1343799
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "server-1q9jsi654nhmg",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3uqn2lgid-1utwfzj-dryxedfg25hm",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "3rss712987dujh9w.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3904
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1knqcigvwg7x4brd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 12720
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 2681
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2d5b36nbaj931eoh.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5136
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3h76fq5hdcd0rrk3.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 16480
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4d3b2nog6yrz6rng.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6656
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "14mz56ainzjot9uo.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 14792
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1yp7aq4cnu9upgcy.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 11816
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "nvu4w472oqxsvb3.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3672
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3o2tbz6mkcs9zasd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4224
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "318yjvg4g4qh06f1.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6856
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "afl09nqek7cgsfx.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15112
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "12pgciykc7n1xxxb.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9816
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 681746
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3lfxcb7km8mqkh6a.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4224
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1gos4n1n5b6pdvbp.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 19464
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "37w1m5jkfwz75q8f.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4592
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1bucxrnym5xunpax.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4400
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "10kllzyv3ojfpnk3.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7016
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "20ig4b82kqpnp75y.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15456
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2tclkmbex8xhe0k8.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 13232
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "43q7g0x32q1h1m2s.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5904
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1665344
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "16lajzgburgy70ki.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5024
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2om8q9ynphivq9gz.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15952
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4kehzfs173vwivsf.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 53432
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2dg0fc0zg0mmlcxo.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 43456
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "eyukrrmk368fwqs.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 17256
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "51787z9d4cbxeqw2.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 16344
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1cfm0rnikfu1ige8.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4656
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1uf534duias75rlf.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5488
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2f6rutnnfbkd91st.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15040
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1k0nny0ljrefm3tz.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15472
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2z6totjg1amrygxr.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9000
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4xse0ovya0dlvtc.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 50336
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "vx5wiyxk2xc0i14.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 37216
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "oyk1q5vppawdhyw.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7536
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "54hsed16hd2t2kfu.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6888
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3rniycz074tk093e.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 103656
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "471xb5ceoj4xhuzz.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3584
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "48kul95nymbql0cc.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 14160
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "ni7ct9o6d5ou5xh.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 17112
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "46n3d7jlin2ljhiz.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 73736
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1jl73bduy2mz0p24.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 17912
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3f0na18ewxpvqfxd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9304
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3czkumz3299qzk2n.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6256
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2s19cu0nbrhxzuem.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 36992
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4sacriddnk91rbwd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 42216
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4v787c9uqtpro8qs.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 12328
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "33p537lj3ammx69c.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4464
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2s538au9j7udwyi7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 25968
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2n6nfigcyt10nj0x.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 21592
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3pgbt7b3y01u4dna.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6648
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3uqn2lgid-1utwfzj.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-3j95j0f8lncsg",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3uqiw00y8-sarryj-3ty7lkt0wbwax",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "38l47ct1sv7ua4dh.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7536
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "tatvd574msm1yja.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7024
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3bnq3uy6k5jwa2nu.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 13360
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3566
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4rej6xr94y7smuqk.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 12848
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3yxwlbclhy5ug2gx.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7168
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "30un19tv2jy6cwcd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 19528
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1uw4hrflqp5myjl7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 25576
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2e2g0q9m7e3zixxy.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15992
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "50vnij4rbd1jvi.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4456
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "43aszjjzkrvl64be.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4872
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2if8j2cfsinltx6t.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5024
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3svx6d8v492qpim7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 22024
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2ifm5uoouegdlr4w.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4800
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "454i8llkdzfs0kp.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7064
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "eabupybtlv28otk.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 27088
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "p40xwdwhpihx12m.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5984
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "el5g075kx4qns2w.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7008
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "56gk2j6rvoux5yd3.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3280
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 672576
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3f6a8zqe1fp4mum9.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15960
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3tert5ijmsvby9k3.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5136
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3lm2m0t0i4x1ivgt.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5360
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1l7hd5dahurdiair.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4224
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3qu6g4ifve7sonal.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3152
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2kya392kfr9a6pbr.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 22784
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2ec9v462ruabvup0.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 70520
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "272e8621itkb1739.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9816
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1ukqovd23cobkkfu.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 43608
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2cuik88ut757fjfo.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3672
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2fjme3u8is5n9c40.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6256
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "12ve130pf65c9nd4.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5792
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "13ibfnz7y1vwtyo5.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5904
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4xg6taaw1exatsrr.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 18888
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1489095
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "501omz5qwcfcnp50.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4688
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4vd0i0ivwlkk96sh.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4656
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3nvlqvg6x9heampm.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 30272
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "26fjqfppm829oaqt.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 22112
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3wzrhqtpbs15ecux.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 56056
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4e30d2sahnz0y61t.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 47208
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "24uha9881bfyqhu.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5640
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "16lpcbzcqlmvx6jd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 8536
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "255uph65sa3smjww.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 47984
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "8cf97sf64mti098.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15808
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "393huvwhxhk6qk1r.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3376
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "5gq1yuxe1r96kiej.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15184
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2vcfij6yog6j5xr.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 8600
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2yr5d31qxh8owckd.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4592
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3c5ex4kth3snvnbr.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 18008
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "49kyl44w2bqapjio.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5792
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4n7culj5vzu6ypoa.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6792
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4c03z1afyv4zbqo7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 23488
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4hnj9fxb0rfrvfig.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 30472
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "5eig2x5nex2jxtct.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9672
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "5bsymvat483df5y2.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15472
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4ean05ad2ce0k85q.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4248
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3yi6zgl56g0vou8d.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6648
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2dk8l7olc3wf6i8k.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4400
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "6r07d9aopfgvwcm.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7800
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4hopwoa2yj923b17.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3584
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "a46e38d5172oww0.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5824
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4rrh7ea8zvmktbkn.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3376
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "676vqqdt57v4a1b.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15784
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2xszfr5dyc23337l.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 16344
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "a9euckgvfn0fv1t.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 66928
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3qma7k46jz0rktxl.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7616
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "35qwa2zbkb8bglto.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 24200
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "oci48b5slmsxh2a.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 12720
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2hwdqrpid84zta4s.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 11264
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3uqiw00y8-sarryj.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-17ngzcnqqb809",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3uqn0rcb9-e3ufjf-381a2iw8umrsy",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 519818
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1054490
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3uqn0rcb9-e3ufjf.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-2kjx6mtudjs1q",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3uqifqjdq-1montca.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "s-g3uqifqjdq-1montca-2rh8cmm5r34nl",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 277041
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 496278
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "server-qx60l0nbydrq",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3uqn0rs4t-yyi89u.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "s-g3uqn0rs4t-yyi89u-hn2ti8k3qcbv",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 533599
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1096350
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "server-18xq3vvza79m2",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3uqifq4p3-oqwf1q-b93xrnx4jfur",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 284995
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 516156
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3uqifq4p3-oqwf1q.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-1zywk4zj1jkhe",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3urfb495r-133f990-k733wjkmh9nb",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 545893
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1250650
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3urfb495r-133f990.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    },
+                    {
+                      "name": "s-g3urf7z0zy-156bue1-working",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 45
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 546055
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1249031
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.part.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1302073
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3urf7z0zy-156bue1.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "server-v0gy8q4s37r2",
+                  "meta": {
+                    "isFile": false,
+                    "isDir": true,
+                    "size": 4096
+                  },
+                  "children": [
+                    {
+                      "name": "s-g3urfczjmq-c1pjx2-e7fzevi3q5rg",
+                      "meta": {
+                        "isFile": false,
+                        "isDir": true,
+                        "size": 4096
+                      },
+                      "children": [
+                        {
+                          "name": "1cfeecvlnq517te7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5136
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4dp3mgy6ydnt2g5b.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 64144
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1we17dmji61nomrb.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5528
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3lva1np9b5jjxwn2.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 31984
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "work-products.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3042
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1q6zd778bc8hwtwl.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 16344
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "49lo41p3mob0mxkr.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3584
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3cxko55ta25jgtbj.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6640
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "r8eewtmftnwashm.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 11880
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "308b9edqqj9lpio4.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6256
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "8q7fg76nw1egil8.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5488
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "tysnjkkctu5d8pm.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6648
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3dz85u3on39inrs2.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 8760
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "hfhcnbm5i32dnct.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 30624
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "18amz815wrp64fes.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15808
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "xlx4622q4syahl1.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7016
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "agp5dputwpqkm8h.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 59032
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4whnyfaen9t0q1ik.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4464
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3ptaps1g573a8ubl.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4224
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2tdhye6hawnmmfwq.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 16112
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4mi6ixw2z6wvmy1a.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 17976
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "51kxpvbm0gc4d7pq.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5024
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1d79h8o4j87a5mz5.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 7536
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "query-cache.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 705309
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3obqb83jhc01mdt0.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5904
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4g8fvsel5ly3spnk.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4224
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "46hay2jxyv4cdyvv.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 10416
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "23e9gwm7xu6oyksj.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 17256
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "16u2vnfzfd87ems2.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3672
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4dnh3tzo6s9ewvjo.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5272
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4xacolfbcpll2bgq.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 14792
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "31asvnml7peiffa7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9280
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2mf48ptp0itbu3it.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 28056
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "58f7derdsdnexwa5.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6512
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2wejq6gcvcleeup9.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 23992
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "xgcg9dakp59fmrs.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 22144
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1ioedlbmeg3hrf2x.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 131320
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "dep-graph.bin",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 1906488
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "5bhry0z7a79ssowx.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6656
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4iaxbrfk1ki45k7.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 16480
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3nzdqpbj4luytrtn.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 8760
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "31a27cocioolmdd6.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 17912
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "jc4rnahw2mozs0k.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6848
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1jedyn4cs4mbbr26.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 11272
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "320ara18ljcsjn2v.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4656
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3bn3fg0b60scc98i.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 12992
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "2lfj401rq258jzn8.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5752
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1g9sulua8r5lvg5a.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 12352
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "49l99g8prfthudwa.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 56344
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "35toyzg5g1pk82dw.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 14736
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1k7m1w05q8gxxjx5.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 15952
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1eludjhqjqrouz0c.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 4592
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "oct7srctf40bnt3.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 48712
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "5cyjjy3vpqprk4i4.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 6888
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "45rghg8ru853ge9q.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 9776
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "3ap3dnb5fx73kn6k.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 20072
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "nu25tdu4gdr7xnh.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 5624
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "1n8cesjyx7g57l2c.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 41880
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "y3r4w16lgwrea9i.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 3904
+                          },
+                          "children": []
+                        },
+                        {
+                          "name": "4xf5v7ub8eqtbhhb.o",
+                          "meta": {
+                            "isFile": true,
+                            "isDir": false,
+                            "size": 14288
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "s-g3urfczjmq-c1pjx2.lock",
+                      "meta": {
+                        "isFile": true,
+                        "isDir": false,
+                        "size": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "deps",
+              "meta": {
+                "isFile": false,
+                "isDir": true,
+                "size": 12288
+              },
+              "children": [
+                {
+                  "name": "libsyn-47aee153bb9580f6.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 15082274
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserver-c714f6b1b7f228e5.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 0
+                  },
+                  "children": []
+                },
+                {
+                  "name": "ryu-c6b398e009bbe53f.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 4676
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-ad723d607e0bd094.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 211
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libproc_macro2-70fa7465da9fa479.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 313050
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-b8ae10a93e0b1d35",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 4053456
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde_json-ed150b01a5206768.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 850619
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-1c4562ff7531aa7b.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 211
+                  },
+                  "children": []
+                },
+                {
+                  "name": "serde-587a642ead1f2d17.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 5332
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libunicode_xid-3c8a88541efd8c80.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 177837
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-d1c924559c115a52.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 211
+                  },
+                  "children": []
+                },
+                {
+                  "name": "serde_derive-abf55b2599740f2e.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 5453
+                  },
+                  "children": []
+                },
+                {
+                  "name": "serde_json-ed150b01a5206768.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 5158
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde_derive-abf55b2599740f2e.so",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 22542552
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libitoa-afd88b127edf84f6.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 42708
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-b8ae10a93e0b1d35.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 205
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libquote-d80a3aa7130eb623.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 229050
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libwalkdir-85c3caa7668e091f.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 120213
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde-86adb7d4557a94da.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 6056238
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde-587a642ead1f2d17.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 2653873
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libryu-9209e0ba8552ce8b.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 124697
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libryu-c6b398e009bbe53f.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 129548
+                  },
+                  "children": []
+                },
+                {
+                  "name": "syn-47aee153bb9580f6.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 13950
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserver-7758d840527f6308.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 0
+                  },
+                  "children": []
+                },
+                {
+                  "name": "serde-86adb7d4557a94da.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 7136
+                  },
+                  "children": []
+                },
+                {
+                  "name": "walkdir-85c3caa7668e091f.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1712
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-3ff81b6093728b92",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 5541440
+                  },
+                  "children": []
+                },
+                {
+                  "name": "serde_json-7eb37a4445cee97d.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 6906
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libitoa-c9f794ae602378a7.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 110998
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libsyn-47aee153bb9580f6.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 2217087
+                  },
+                  "children": []
+                },
+                {
+                  "name": "itoa-c9f794ae602378a7.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 604
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserver-ad723d607e0bd094.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 0
+                  },
+                  "children": []
+                },
+                {
+                  "name": "same_file-d3ddf74b396c2e8b.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1008
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-c29ccf60895e49af.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 205
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libwalkdir-2d36edf9becddc97.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 93186
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserver-d1c924559c115a52.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 0
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde_json-7eb37a4445cee97d.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 5057254
+                  },
+                  "children": []
+                },
+                {
+                  "name": "ryu-9209e0ba8552ce8b.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 3486
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libquote-d80a3aa7130eb623.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1189730
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-7758d840527f6308.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 211
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-c27d8bbbc5e5bb51.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 211
+                  },
+                  "children": []
+                },
+                {
+                  "name": "walkdir-2d36edf9becddc97.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1260
+                  },
+                  "children": []
+                },
+                {
+                  "name": "same_file-81dc4ac9f2573c23.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 731
+                  },
+                  "children": []
+                },
+                {
+                  "name": "quote-d80a3aa7130eb623.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 2845
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libwalkdir-85c3caa7668e091f.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1801482
+                  },
+                  "children": []
+                },
+                {
+                  "name": "itoa-afd88b127edf84f6.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 429
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserver-c27d8bbbc5e5bb51.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 0
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libsame_file-81dc4ac9f2573c23.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 32035
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libproc_macro2-70fa7465da9fa479.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 2867768
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde-86adb7d4557a94da.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 5345032
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserde_json-7eb37a4445cee97d.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1442429
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libryu-c6b398e009bbe53f.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 397028
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libsame_file-d3ddf74b396c2e8b.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 38111
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libitoa-c9f794ae602378a7.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 112550
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-c29ccf60895e49af",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 6394704
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libserver-1c4562ff7531aa7b.rmeta",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 0
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-3ff81b6093728b92.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 205
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libunicode_xid-3c8a88541efd8c80.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 232074
+                  },
+                  "children": []
+                },
+                {
+                  "name": "libsame_file-d3ddf74b396c2e8b.rlib",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 261122
+                  },
+                  "children": []
+                },
+                {
+                  "name": "proc_macro2-70fa7465da9fa479.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 2622
+                  },
+                  "children": []
+                },
+                {
+                  "name": "unicode_xid-3c8a88541efd8c80.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 1038
+                  },
+                  "children": []
+                },
+                {
+                  "name": "server-c714f6b1b7f228e5.d",
+                  "meta": {
+                    "isFile": true,
+                    "isDir": false,
+                    "size": 211
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": ".cargo-lock",
+              "meta": {
+                "isFile": true,
+                "isDir": false,
+                "size": 0
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "meta": {
+        "isFile": false,
+        "isDir": true,
+        "size": 4096
+      },
+      "children": [
+        {
+          "name": "main.rs",
+          "meta": {
+            "isFile": true,
+            "isDir": false,
+            "size": 3137
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Cargo.lock",
+      "meta": {
+        "isFile": true,
+        "isDir": false,
+        "size": 3599
+      },
+      "children": []
+    }
+  ]
+}
